@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5be5bf91.chunk.css",
-    "main.js": "/static/js/main.23dec4d9.chunk.js",
-    "main.js.map": "/static/js/main.23dec4d9.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.b6503a30.js",
-    "runtime~main.js.map": "/static/js/runtime~main.b6503a30.js.map",
-    "static/css/2.9cdea9f6.chunk.css": "/static/css/2.9cdea9f6.chunk.css",
-    "static/js/2.f18c9773.chunk.js": "/static/js/2.f18c9773.chunk.js",
-    "static/js/2.f18c9773.chunk.js.map": "/static/js/2.f18c9773.chunk.js.map",
-    "static/js/3.3795ee4d.chunk.js": "/static/js/3.3795ee4d.chunk.js",
-    "static/js/3.3795ee4d.chunk.js.map": "/static/js/3.3795ee4d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b5c71e9de874278d8bdf6edf254ceeeb.js": "/precache-manifest.b5c71e9de874278d8bdf6edf254ceeeb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.9cdea9f6.chunk.css.map": "/static/css/2.9cdea9f6.chunk.css.map",
-    "static/css/main.5be5bf91.chunk.css.map": "/static/css/main.5be5bf91.chunk.css.map"
+    "main.css": "/anitalu724/static/css/main.5be5bf91.chunk.css",
+    "main.js": "/anitalu724/static/js/main.23dec4d9.chunk.js",
+    "main.js.map": "/anitalu724/static/js/main.23dec4d9.chunk.js.map",
+    "runtime~main.js": "/anitalu724/static/js/runtime~main.c93f158d.js",
+    "runtime~main.js.map": "/anitalu724/static/js/runtime~main.c93f158d.js.map",
+    "static/css/2.9cdea9f6.chunk.css": "/anitalu724/static/css/2.9cdea9f6.chunk.css",
+    "static/js/2.f18c9773.chunk.js": "/anitalu724/static/js/2.f18c9773.chunk.js",
+    "static/js/2.f18c9773.chunk.js.map": "/anitalu724/static/js/2.f18c9773.chunk.js.map",
+    "static/js/3.3795ee4d.chunk.js": "/anitalu724/static/js/3.3795ee4d.chunk.js",
+    "static/js/3.3795ee4d.chunk.js.map": "/anitalu724/static/js/3.3795ee4d.chunk.js.map",
+    "index.html": "/anitalu724/index.html",
+    "precache-manifest.b3e564f56a8a0b4d645c7570f717d196.js": "/anitalu724/precache-manifest.b3e564f56a8a0b4d645c7570f717d196.js",
+    "service-worker.js": "/anitalu724/service-worker.js",
+    "static/css/2.9cdea9f6.chunk.css.map": "/anitalu724/static/css/2.9cdea9f6.chunk.css.map",
+    "static/css/main.5be5bf91.chunk.css.map": "/anitalu724/static/css/main.5be5bf91.chunk.css.map"
   }
 }
