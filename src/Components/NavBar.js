@@ -23,7 +23,7 @@ const NavBar = () => {
               <Nav.Item className="navbarItem"> <Nav.Link className="navbarLink" onSelect={handleSelected}href="#about">About Me</Nav.Link> </Nav.Item>
               <Nav.Item className="navbarItem"> <Nav.Link className="navbarLink" onSelect={handleSelected}href="#experiences">Experiences</Nav.Link> </Nav.Item>
               <Nav.Item className="navbarItem"> <Nav.Link className="navbarLink" onSelect={handleSelected}href="#projects">Projects</Nav.Link> </Nav.Item>
-              <Nav.Item className="navbarItem"> <Nav.Link className="navbarLink" onSelect={handleSelected}href="#publications">Publications</Nav.Link> </Nav.Item>
+              <Nav.Item className="navbarItem"> <Nav.Link className="navbarLink" onSelect={handleSelected}href="#publications">Publication</Nav.Link> </Nav.Item>
               <Nav.Item className="navbarItem"> <Nav.Link className="navbarLink" onSelect={handleSelected}href="#honors">Honors & Awards</Nav.Link> </Nav.Item>
             </Nav>
           </Navbar.Collapse>

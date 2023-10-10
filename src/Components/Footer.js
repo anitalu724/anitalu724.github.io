@@ -9,7 +9,7 @@ const Footer = () => {
     <div id="footerContainer">
       <div className="footerWrapper">
         <div className="footerCol title">
-          <p>Cheng-Hua (Anita) Lu</p>
+          <p>Anita Lu</p>
           <a href ={"mailto:"+configData.SELF_INFO.EMAIL} target='_blank'>{configData.SELF_INFO.EMAIL}</a>
         </div>
         <div className="footerCol footerIcon">
@@ -19,7 +19,7 @@ const Footer = () => {
           <a href ={configData.SELF_INFO.GOOGLESCHOLAR} target='_blank'><FaGraduationCap/></a>
         </div>
         <div className="footerCol">
-          <p className = "footerColP">This is an academic website for Cheng-Hua (Anita) Lu to share her experiences, projects, publications.</p>
+          <p className = "footerColP">This is an academic website for Anita Lu to share her experiences, projects, publications.</p>
         </div>
         
 

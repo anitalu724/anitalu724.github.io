@@ -1,7 +1,7 @@
 {
-    "NAME": "Cheng-Hua (Anita) Lu",
+    "NAME": "Anita Lu",
     "SELF_INFO": {
-        "EMAIL": "r10921058@ntu.edu.tw",
+        "EMAIL": "anitalu724usa@gmail.com",
         "GITHUB": "https://github.com/anitalu724",
         "LINKEDIN": "https://www.linkedin.com/in/anitalu724/",
         "FACEBOOK": "https://www.facebook.com/profile.php?id=100005222118673",
@@ -10,7 +10,8 @@
         "SELF_PHOTO": "img/myPhoto.jpeg",
         "SELF_DESCRIPTION":
         [
-            "A Master's Student in NTU EE",
+            "A Master's Student at Stanford University",
+            "A Software Engineer",
             "A Web Developer ⚛",
             "An Eager Learner ❤️"
         ]
@@ -21,8 +22,8 @@
     "ABOUT_PAGE": {
         "DESCRIPTION":
         [
-            "I am a master's student at the National Taiwan University (NTU) Design Verification Lab supervised by Prof. Chung-Yang (Ric) Huang. I am adept at web programming and also working on the development of quantum circuit optimization.",
-            "I received my Bachelor's degree in Electrical Engineering from NTU in 2021, and I am studying for the master degree in Electrical Engineering, NTU. I have had the privilege to work with Prof. Chung-Yang (Ric) Huang at NTU. If you would like to learn more about me, please see my [ Résumé ] or contact me at r10921058 [at] ntu.edu.tw"
+            "I am a master's student in Electrical Engineering at Stanford University. My interests include software development and web programming. I am currently seeking internship opportunities in Software Engineering for the summer of 2024.",
+            "Before attending Stanford, I earned my B.S. and M.S. degrees in Electrical Engineering from National Taiwan University. During my undergraduate studies, I had the privilege of working with Prof. Eric Y. Chuang on software development in the field of cancer genomics. During my master's program, I collaborated with Prof. Chung-Yang Ric Huang on quantum circuit optimization and software framework development."
         ]
     },
     "EXPERIENCES_PAGE":{
@@ -40,36 +41,35 @@
     "PROJECT_PAGE":[
         {
             "id": 1,
-            "img": "img/projects/ntuee+.png",
-            "name": "❖ NTUEE+ Website",
-            "date": "Sep 2019 - Present",
-            "website": "https://eeplus.ntuee.org/home",
-            "github": "https://github.com/NTUEE-PLUS/EndOfWeb",
+            "img": "img/projects/qsyn.png",
+            "name": "❖ Qsyn: An End‐to‐End Quantum Circuit Synthesis Framework",
+            "date": "Sep 2022 - Aug 2023",
+            "github": "https://github.com/ric2k1/qsyn.lab",
             "des": [
-              "➣ Built a complete network of NTUEE’s alumni and deepened the connection between NTUEE students.",
-              "➣ The services contain member verification, alumni’s interview to provide latest industrial information, recruitment information, and a self-recommendation system."
-            ],
-            "Technology": [
-              "#ReactJS",
-              "#HTML5",
-              "#CSS"
-            ]
+                "➣ Qsyn is a C++ based growing software system for synthesis, optimization and verification of quantum circuits appearing in quantum computers. Qsyn implements scalable quantum circuits optimization by combining ZX-Calculus and technology mapping",
+                "➣ Qsyn provides an experimental implementation of optimization algorithms and a programming environment for simulation or building similar applications. Future development will focus on enhancing the algorithms, and visualization of ZX-graphs"
+              ],
+              "Technology": [
+                "#C++",
+                "#Quantum Computing",
+                "#ZX-calculus"
+              ]
         },
         {
             "id": 2,
-            "img": "img/projects/skrik.png",
-            "name": "❖ SKRIK: A Simultaneously and Co-edited Coding Website",
-            "date": "Oct 2020 - Jan 2021",
-            "github": "https://github.com/jill880829/Skrik",
+            "img": "img/projects/wordle.png",
+            "name": "❖ Wordle",
+            "date": "Sep 2022 - Oct 2022",
+            "website":"https://www.youtube.com/watch?v=hTBUw2J_93s",
+            "github": "https://anitalu724.github.io/Wordle/",
             "des": [
-                "➣ Final Project for 109-1 Web Programming",
-                "➣ An online code editor which provides multiple users to edit the same project simultaneously."
+                "➣ The exam designed for 111-1 NTUEE Web programming Hackathon1",
+                "➣ An online Wordle Game"
               ],
               "Technology": [
                 "#ReactJS",
                 "#HTML5",
-                "#CSS",
-                "#MongoDB"
+                "#CSS"
               ]
         },
         {
@@ -80,34 +80,71 @@
             "website":"https://anitalu724.github.io/mineSweeper/",
             "github": "https://github.com/anitalu724/mineSweeper",
             "des": [
-                "➣ The question designed for 110-1 NTUEE Web programming Hackathon1",
-                "➣ An online MineSweeper Game."
+                "➣ The exam designed for 110-1 NTUEE Web programming Hackathon1",
+                "➣ An online MineSweeper Game"
               ],
               "Technology": [
                 "#ReactJS",
                 "#HTML5",
                 "#CSS"
               ]
+        },
+        {
+            "id": 4,
+            "img": "img/projects/skrik.png",
+            "name": "❖ SKRIK: A Simultaneously and Co-edited Coding Website",
+            "date": "Oct 2020 - Jan 2021",
+            "github": "https://github.com/jill880829/Skrik",
+            "des": [
+                "➣ Final Project for 109-1 Web Programming",
+                "➣ An online code editor which provides multiple users to edit the same project simultaneously"
+              ],
+              "Technology": [
+                "#ReactJS",
+                "#HTML5",
+                "#CSS",
+                "#MongoDB"
+              ]
+        },
+        {
+            "id": 5,
+            "img": "img/projects/ntuee+.png",
+            "name": "❖ NTUEE+ Website",
+            "date": "Sep 2019 - Present",
+            "website": "https://eeplus.ntuee.org/home",
+            "github": "https://github.com/NTUEE-PLUS/EndOfWeb",
+            "des": [
+              "➣ Built a complete network of NTUEE’s alumni and deepened the connection between NTUEE students",
+              "➣ The services contain member verification, alumni’s interview to provide latest industrial information, recruitment information, and a self-recommendation system"
+            ],
+            "Technology": [
+              "#ReactJS",
+              "#HTML5",
+              "#CSS",
+              "#MongoDB",
+              "#NodeJS"
+            ]
         }
+        
     ],
     "PUBLICATIONS_PAGE":[
         {
             "id": 1,
-            "year": 2021,
+            "year": "NAR genomics and bioinformatics, vol. 3, no. 4, lqab099, 2021",
             "title": "MutScape: an analytical toolkit for probing the mutational landscape in cancer genomics",
             "img":"https://github.com/anitalu724/MutScape/blob/main/mutscape/data/MutScape_movie.gif?raw=true",
             "authors":[
                 {
                     "name":"Cheng-Hua Lu",
-                    "url":"https://anitalu724.github.io/"
+                    "url":"https://anitalu724.github.io/anitalu724"
                 },
                 {
                     "name":"Chia-Hsin Wu",
-                    "url":"https://anitalu724.github.io/"
+                    "url":"https://anitalu724.github.io/anitalu724"
                 },
                 {
                     "name":"Mong-Hsun Tsai",
-                    "url":"https://anitalu724.github.io/"
+                    "url":"https://anitalu724.github.io/anitalu724"
                 },
                 {
                     "name":"Liang-Chuan Lai",

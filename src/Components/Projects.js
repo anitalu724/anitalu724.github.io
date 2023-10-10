@@ -11,7 +11,7 @@ const octokit = new Octokit({
 const Projects = () => {
   return (
     <div id="projects">
-      <h2 className="text-start pb-5 mb-5 container">My projects</h2>
+      <h2 className="text-start pb-5 mb-5 container">Projects</h2>
       {configData.PROJECT_PAGE.map((project) => <Project key={project.id} project={project}></Project>)}
     </div>
   )
